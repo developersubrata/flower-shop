@@ -8,7 +8,7 @@ body{
    color: white;
     border-radius: 5px; 
     border: 0;
-    padding: 18px 35px;
+    padding: 20px 45px;
     font-size: 20px;
     font-weight: 700;
 }
@@ -17,6 +17,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 240px;
 }
 .nav-title{
     color: #E55473;
@@ -33,4 +34,28 @@ nav li{
 }
 nav a{
     text-decoration: none;
+}
+/* header styles */
+.header{
+    background-color: #dbcfd21a;
+}
+.banner{
+    padding: 30px 240px 30px 240px;
+    display: flex;
+    align-items: center;
+}
+.banner .banner-pic{
+    width: 635px;
+    height: 800px;
+}
+.banner-title{
+    color: #272727;
+font-size: 80px;
+font-weight: 800;
+}
+.banner-description{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
 }
