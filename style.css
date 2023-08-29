@@ -160,3 +160,70 @@ padding-top: 0px;
     justify-content:space-between;
 
 }
+/* newsletter section styles */
+
+.newsletter{
+  background: url('./images/Rectangle\ 9.png');
+  background-position: center;
+  margin-left: 200px;
+  width: 1440px;
+height: 449px;
+align-items: center;
+
+}
+.newsletter-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding-top: 50px;
+
+}
+.newsletter-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.newsletter .btn-primary{
+    text-align: center;
+    border: 0px;
+}
+.email-box{
+    text-align: center;
+    text-decoration: none;
+    padding: 18px 20px;
+}
+.footer{
+    color: white;
+    width: 1922px;
+height: 449px;
+background: #111010;
+padding-top: 50px;
+text-align: center;
+}
+.footer-title{
+    color: #FFF;
+font-size: 48px;
+font-weight: 800;
+}
+.footer-color{
+    color: #E55473;
+font-size: 48px;
+font-weight: 800;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.footer-end{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
